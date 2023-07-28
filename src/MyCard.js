@@ -32,3 +32,4 @@ const MyCard = ({ details }) => {
   );
 };
 export default MyCard;
+// my card
